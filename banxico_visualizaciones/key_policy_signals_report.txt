@@ -1,0 +1,51 @@
+
+=== REPORTE DE SEÑALES CLAVE DE POLÍTICA MONETARIA ===
+
+📅 ANÁLISIS DE COMUNICACIÓN BANXICO
+Período: March 2018 - June 2025
+
+🔑 TOP 10 SEÑALES MÁS SIGNIFICATIVAS (por intensidad de postura):
+
+ 1. [June 2018] Restrictiva (+1.00)
+    "Se requiere actuar de manera oportuna y firme."
+
+ 2. [September 2018] Restrictiva (+1.00)
+    "La inflación presenta importantes retos que requieren prudencia."
+
+ 3. [December 2018] Restrictiva (+1.00)
+    "Se busca la convergencia de la inflación a su meta."
+
+ 4. [September 2019] Expansiva (-1.00)
+    "Reducción de la tasa de interés en 25 puntos base."
+
+ 5. [December 2019] Expansiva (-1.00)
+    "El balance de riesgos para el crecimiento sigue sesgado a la baja."
+
+ 6. [March 2020] Expansiva (-1.00)
+    "Reducción de tasas para estimular la economía."
+
+ 7. [June 2020] Restrictiva (+1.00)
+    "Se prioriza la estabilidad de la inflación y el sistema financiero."
+
+ 8. [September 2020] Restrictiva (+1.00)
+    "Se mantiene la tasa de referencia en 4.25%."
+
+ 9. [March 2021] Restrictiva (+1.00)
+    "Se mantiene la tasa de interés en 4%."
+
+10. [June 2021] Restrictiva (+1.00)
+    "Señales de aumento en tasas para controlar la inflación."
+
+
+📊 ESTADÍSTICAS DE SEÑALES:
+• Total de señales analizadas: 30
+• Longitud promedio: 54 caracteres
+• Señal más compleja: March 2018 (73 caracteres)
+
+🎯 PATRONES IDENTIFICADOS:
+• Restrictiva: 18 señales, 54 caracteres promedio
+• Expansiva: 7 señales, 52 caracteres promedio
+• Neutral: 5 señales, 57 caracteres promedio
+
+Reporte generado: 2025-09-25 14:45:01
+════════════════════════════════════════════════════════

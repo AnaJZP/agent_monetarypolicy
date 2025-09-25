@@ -1,0 +1,31 @@
+
+=== REPORTE EJECUTIVO: ANÁLISIS DE POLÍTICA MONETARIA DE BANXICO ===
+
+📊 RESUMEN DEL PERÍODO:
+• Período analizado: March 2018 - June 2025
+• Total de informes: 30
+• Duración: 7.3 años
+
+🎯 ESTADÍSTICAS DE POSTURA:
+• Postura promedio: 0.37
+• Desviación estándar: 0.85
+• Postura más restrictiva: 1.00 (June 2018)
+• Postura más expansiva: -1.00 (September 2019)
+
+📋 DISTRIBUCIÓN DE POSTURAS:
+• Restrictiva: 18 informes (60.0%)
+• Expansiva: 7 informes (23.3%)
+• Neutral: 5 informes (16.7%)
+
+📈 ANÁLISIS DE TENDENCIAS:
+• Tendencia reciente (últimos 5): Más expansiva
+• Volatilidad promedio: 0.85
+• Nivel de confianza promedio: 0.79
+
+🔑 MÉTRICAS CLAVE (PROMEDIOS):
+• Preocupación por inflación: 0.86
+• Preocupación por crecimiento: 0.61
+• Fortaleza del empleo: 0.53
+• Incertidumbre política: 0.74
+
+Reporte generado: 2025-09-25 14:45:01

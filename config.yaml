@@ -1,0 +1,15 @@
+# config.yaml
+
+# config.yaml
+
+paths:
+  pdf_reports_dir: 'banxico_informes'
+  knowledge_base_file: 'banxico_output/knowledge_base_banxico.json'
+  vector_store_dir: 'banxico_vectordb'
+  analysis_output_csv: 'banxico_output/analisis_postura_banxico.csv'
+
+
+
+chunking:
+  chunk_size: 1500  # 
+  chunk_overlap: 250
